@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Read(//Users/binjing/.claude/projects/**)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

@@ -41,7 +41,7 @@ go run -race ./worker-pool
 
 ### Building a demo:
 ```bash
-go build -o myapp ./demo-folder
+go build -o myapp ./go-learning-demo-folder
 ./myapp
 ```
 
@@ -54,7 +54,7 @@ Create a `.go` file directly in the root:
 package main
 
 func main() {
-    // demo code here
+    // go-learning-demo code here
 }
 ```
 
